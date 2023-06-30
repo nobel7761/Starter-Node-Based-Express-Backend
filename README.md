@@ -15,3 +15,5 @@
 - husky
 - lint-staged
 - ts-node-dev
+
+### All you need to do is, create .env file which will connect the mongoDB database. 
